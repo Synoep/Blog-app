@@ -30,3 +30,5 @@ Database Models:
 Post: Table with fields id, title, and content.
 Validation:
 Ensure title and content are required fields when creating a post.
+
+
